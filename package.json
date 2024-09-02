@@ -1,0 +1,16 @@
+{
+  "name": "deathstroke",
+  "version": "1.0.0",
+  "description": "An npm package that randomly removes dependencies from package.json and uninstalls them.",
+  "main": "index.js",
+  "bin": {
+    "roulette": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["npm", "roulette", "dependencies", "uninstall"],
+  "author": "Jaarabytes",
+  "license": "MIT",
+  "dependencies": {}
+}
